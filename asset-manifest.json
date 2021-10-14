@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/azizbek347/react-tetris/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/azizbek347/react-tetris/static/js/main.3458042e.chunk.js",
+    "main.js.map": "/azizbek347/react-tetris/static/js/main.3458042e.chunk.js.map",
+    "runtime-main.js": "/azizbek347/react-tetris/static/js/runtime-main.5a1aab64.js",
+    "runtime-main.js.map": "/azizbek347/react-tetris/static/js/runtime-main.5a1aab64.js.map",
+    "static/js/2.868a62b2.chunk.js": "/azizbek347/react-tetris/static/js/2.868a62b2.chunk.js",
+    "static/js/2.868a62b2.chunk.js.map": "/azizbek347/react-tetris/static/js/2.868a62b2.chunk.js.map",
+    "index.html": "/azizbek347/react-tetris/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/azizbek347/react-tetris/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.868a62b2.chunk.js.LICENSE.txt": "/azizbek347/react-tetris/static/js/2.868a62b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1aab64.js",
+    "static/js/2.868a62b2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3458042e.chunk.js"
+  ]
+}
